@@ -1,0 +1,33 @@
+product,regime,season,version,n,MBE,RMSE,r,r_anom
+ERA5,Lowland,DJF,raw,35706,-0.193,1.344,0.952,0.957
+ERA5,Lowland,DJF,corrected,35706,0.747,1.383,0.963,0.957
+ERA5,Lowland,MAM,raw,36352,-0.204,1.240,0.970,0.973
+ERA5,Lowland,MAM,corrected,36352,0.733,1.133,0.985,0.973
+ERA5,Lowland,JJA,raw,36416,-0.158,1.329,0.939,0.971
+ERA5,Lowland,JJA,corrected,36416,0.779,1.168,0.973,0.971
+ERA5,Lowland,SON,raw,36234,-0.081,1.209,0.976,0.964
+ERA5,Lowland,SON,corrected,36234,0.858,1.314,0.983,0.964
+ERA5,Coastal,DJF,raw,9006,-0.111,1.185,0.921,0.925
+ERA5,Coastal,DJF,corrected,9006,0.016,1.760,0.815,0.925
+ERA5,Coastal,MAM,raw,9106,-0.675,1.439,0.946,0.934
+ERA5,Coastal,MAM,corrected,9106,-0.561,1.838,0.893,0.934
+ERA5,Coastal,JJA,raw,9163,-1.003,1.619,0.892,0.926
+ERA5,Coastal,JJA,corrected,9163,-0.875,1.849,0.827,0.926
+ERA5,Coastal,SON,raw,9073,-0.274,1.221,0.968,0.956
+ERA5,Coastal,SON,corrected,9073,-0.146,1.681,0.932,0.956
+ERA5,Valley / foothill,DJF,raw,35623,-0.378,2.263,0.877,0.936
+ERA5,Valley / foothill,DJF,corrected,35623,0.551,1.605,0.939,0.936
+ERA5,Valley / foothill,MAM,raw,36010,-0.550,2.383,0.903,0.966
+ERA5,Valley / foothill,MAM,corrected,36010,0.380,1.210,0.975,0.966
+ERA5,Valley / foothill,JJA,raw,36057,-0.491,2.055,0.859,0.967
+ERA5,Valley / foothill,JJA,corrected,36057,0.429,1.087,0.962,0.967
+ERA5,Valley / foothill,SON,raw,36275,-0.398,2.057,0.933,0.951
+ERA5,Valley / foothill,SON,corrected,36275,0.526,1.415,0.971,0.951
+ERA5,Mountain,DJF,raw,35397,-0.801,4.068,0.809,0.839
+ERA5,Mountain,DJF,corrected,35397,-1.033,2.700,0.872,0.839
+ERA5,Mountain,MAM,raw,35477,-0.431,4.007,0.791,0.932
+ERA5,Mountain,MAM,corrected,35477,-0.715,1.925,0.942,0.932
+ERA5,Mountain,JJA,raw,35366,-0.436,3.496,0.753,0.936
+ERA5,Mountain,JJA,corrected,35366,-0.716,1.902,0.899,0.936
+ERA5,Mountain,SON,raw,36247,-0.521,3.743,0.849,0.902
+ERA5,Mountain,SON,corrected,36247,-0.704,1.951,0.946,0.902

@@ -1,0 +1,9 @@
+product,regime,version,n,MBE,RMSE,r,r_anom
+ERA5,Lowland,raw,144708,-0.159,1.282,0.986,0.965
+ERA5,Lowland,corrected,144708,0.779,1.253,0.992,0.965
+ERA5,Coastal,raw,36348,-0.518,1.378,0.982,0.936
+ERA5,Coastal,corrected,36348,-0.394,1.784,0.965,0.936
+ERA5,Valley / foothill,raw,143965,-0.454,2.194,0.961,0.954
+ERA5,Valley / foothill,corrected,143965,0.471,1.343,0.986,0.954
+ERA5,Mountain,raw,142487,-0.547,3.835,0.901,0.899
+ERA5,Mountain,corrected,142487,-0.791,2.144,0.966,0.899

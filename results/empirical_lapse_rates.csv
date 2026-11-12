@@ -1,0 +1,6 @@
+product,season,lapse_rate_C_per_km,intercept_C,r,n_stations
+ERA5,All year,-5.213,0.007,-0.911,65
+ERA5,DJF,-4.938,-0.044,-0.875,65
+ERA5,MAM,-5.778,0.020,-0.911,65
+ERA5,JJA,-5.061,-0.031,-0.895,65
+ERA5,SON,-5.079,0.083,-0.915,65
